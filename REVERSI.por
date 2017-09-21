@@ -1217,7 +1217,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 36253; 
+ * @POSICAO-CURSOR = 11; 
  * @DOBRAMENTO-CODIGO = [50, 112, 128, 280, 406, 416, 425, 500, 576, 649, 721, 801, 882, 961, 1039, 1067, 1074, 1083, 1096, 1112, 1120, 1161];
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
